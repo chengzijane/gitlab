@@ -5,6 +5,6 @@ int main(){
 
         edit by linghuc
         edit by cheng/yuenuqum
-
-	return 0;
+   scs
+ 	return 0;
 }
